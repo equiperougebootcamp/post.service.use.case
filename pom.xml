@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.bootcamp</groupId>
+  <groupId>com.bootcamp.agroppm</groupId>
   <artifactId>projet.service.use.case</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -25,15 +25,15 @@
     </dependency>
 
     <dependency>
-      <groupId>com.bootcamp</groupId>
-      <artifactId>agri.commons.ws</artifactId>
-      <version>1.2</version>
+      <groupId>com.bootcamp.agroppm</groupId>
+      <artifactId>commons.ws</artifactId>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
 
     <dependency>
-      <groupId>com.bootcamp</groupId>
+      <groupId>com.bootcamp.agroppm</groupId>
       <artifactId>service.crud</artifactId>
-      <version>1.2</version>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
 
     <dependency>
